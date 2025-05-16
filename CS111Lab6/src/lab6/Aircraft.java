@@ -1,5 +1,9 @@
 package lab6;
-
+/**
+ * Kyle Dickson
+ * 50116781
+ * I pledge that this submission is solely my work, and that I have neither given, nor received help from anyone.
+ */
 public abstract class Aircraft extends Vehicle{
 	
 	protected double crusingAltitide;
